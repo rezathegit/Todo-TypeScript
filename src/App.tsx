@@ -18,15 +18,15 @@ const App: React.FC = () => {
     }
   };
 
-  console.log(todos);
+  // console.log(todos);
 
   return <div className="App">
     <span className="header">Todo App with TypeScript</span>
     <InputField todo={todo} setTodo={setTodo} handleAdd={handleAdd} />
-    <TodoList/>
-    {todos.map(t => (
+    <TodoList todos={todos} setTodos={setTodos}/>
+    {/* {todos.map(t => (
       <li>{t.todo}</li>
-    ))}
+    ))} */}
   </div>
 };
 
