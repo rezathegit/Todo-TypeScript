@@ -20,7 +20,7 @@
 ├── index.tsx
 ├── model.ts
 └── react-app-env.d.ts
-```
+````
 
 ---------
 # Getting Started with Create React App
