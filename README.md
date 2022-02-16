@@ -1,6 +1,7 @@
 
 ## Trying out TypeScript by creating a Todo app!
 
+Check out the app deployed on [Netlify](https://adoring-curie-ea3db1.netlify.app)
 
 ## Folder structure and files 
 ````
