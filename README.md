@@ -1,3 +1,28 @@
+
+## Trying out TypeScript by creating a Todo app!
+
+
+## Folder structure and files 
+````
+├── App.css
+├── App.tsx
+├── components
+│   ├── InputField
+│   │   ├── InputField.css
+│   │   └── InputField.tsx
+│   ├── SingleTodo
+│   │   ├── SingleTodo.css
+│   │   └── SingleTodo.tsx
+│   └── TodoList
+│       ├── TodoList.css
+│       └── TodoList.tsx
+├── index.css
+├── index.tsx
+├── model.ts
+└── react-app-env.d.ts
+```
+
+---------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
